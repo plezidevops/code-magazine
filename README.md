@@ -1,1 +1,1 @@
-# code-magazine
+# The code magazine web site
